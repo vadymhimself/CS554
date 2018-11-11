@@ -94,3 +94,7 @@ Hadoop works best with a modest number of large files:
 
 ![image](https://user-images.githubusercontent.com/11277453/44886718-c6c58600-ac8d-11e8-8b53-a156cc057f0e.png)
 
+### NoSQL Databases
+![image](https://user-images.githubusercontent.com/11277453/48310491-ad766b00-e555-11e8-96bf-48883bd40074.png)
+
+
